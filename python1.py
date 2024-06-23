@@ -26,3 +26,18 @@ p3=15
 result4=p1*p2-p3
 print(result4)
 
+
+
+
+
+
+
+
+      
+
+
+
+      
+      
+
+
